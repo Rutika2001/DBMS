@@ -1,0 +1,2 @@
+group#roll_no#int#name#char
+stud_db#id#int#name#char#branch#char#pass_year#int

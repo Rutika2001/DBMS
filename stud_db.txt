@@ -1,0 +1,10 @@
+11910689#'rutika_patil'#'computer'#2023
+11911122#'pranali_pardeshi'#'computer'#2023
+11910542#'pratiksha_patil'#'computer'#2023
+11910565#'om_chakane'#'computer'#2023
+11910656#'parth'#'chemical'#2023
+11910986#'sakshi'#'mechanical'#2023
+11910955#'rushikesh_patil'#'mechanical'#2022
+11913955#'sakshi_bhosale'#'entc'#2023
+11913855#'swapnil_patil'#'computer'#2023
+11913598#'rohit_patil'#'mechanical'#2022
